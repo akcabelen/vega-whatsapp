@@ -65,3 +65,7 @@ yeni **ALACAK** girişi (devir 103/104 hariç) bulununca cariye şablon mesaj g�
   `data/baileys-auth`, `data/watcher*.json`, `data/wa-stats.json`. Geliştirmede `server/` altı.
 - Telefon normalizasyonu TR odaklı (`server/phone.js`): `0xxx`/`5xxx` → `90...`,
   `905xxxxxxxxx` regex'i geçenler "geçerli" sayılır.
+
+---
+
+**Lisans:** Kaynak kod tescillidir — tüm hakları saklıdır. İzinsiz kullanılamaz, kopyalanamaz, dağıtılamaz ya da satılamaz. Ayrıntı: [LICENSE](LICENSE).
